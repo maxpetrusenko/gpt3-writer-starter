@@ -3,9 +3,6 @@ import Image from 'next/image';
 import buildspaceLogo from '../assets/buildspace-logo.png';
 import { useState } from 'react';
 
-const test = "";
-test =1;
-
 
 const Home = () => {
   const [userInput, setUserInput] = useState('');

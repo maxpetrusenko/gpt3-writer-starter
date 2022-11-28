@@ -41,7 +41,7 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Funny tweet generator</h1>
+            <h1>Tweet generator</h1>
           </div>
           <div className="header-subtitle">
             <h2>input your random thought and we will generate the rest</h2>
